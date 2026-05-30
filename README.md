@@ -44,7 +44,7 @@ week4/
 ## Setup & Run
 ```bash
 pip install -r requirements.txt
-jupyter notebook Week4_NLP_Language_Trends.ipynb
+jupyter notebook NLP_Language_Trends.ipynb
 ```
 
 ## Skills Demonstrated
